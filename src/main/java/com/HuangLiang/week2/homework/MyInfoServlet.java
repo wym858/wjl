@@ -1,4 +1,4 @@
-package com.mbti.demo4;
+package com.HuangLiang.week2.homework;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
